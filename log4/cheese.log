@@ -1,0 +1,126 @@
+[2019-07-15T15:48:29.633] [ERROR] cheese - { FetchError: request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801
+    at ClientRequest.<anonymous> (/Applications/yd/jenkins-demo/node_modules/node-fetch/lib/index.js:1455:11)
+    at ClientRequest.emit (events.js:198:13)
+    at Socket.socketErrorListener (_http_client.js:392:9)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  message:
+   'request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801',
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED' }
+[2019-07-15T15:48:29.635] [ERROR] cheese - { code: 1, message: 'fetch请求数据失败', data: [] }
+[2019-07-15T15:49:16.622] [ERROR] cheese - { FetchError: request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801
+    at ClientRequest.<anonymous> (/Applications/yd/jenkins-demo/node_modules/node-fetch/lib/index.js:1455:11)
+    at ClientRequest.emit (events.js:198:13)
+    at Socket.socketErrorListener (_http_client.js:392:9)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  message:
+   'request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801',
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED' }
+[2019-07-15T15:49:16.622] [ERROR] cheese - { code: 1, message: 'fetch请求数据失败', data: [] }
+[2019-07-15T15:49:17.342] [ERROR] cheese - { FetchError: request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801
+    at ClientRequest.<anonymous> (/Applications/yd/jenkins-demo/node_modules/node-fetch/lib/index.js:1455:11)
+    at ClientRequest.emit (events.js:198:13)
+    at Socket.socketErrorListener (_http_client.js:392:9)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  message:
+   'request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801',
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED' }
+[2019-07-15T15:49:17.343] [ERROR] cheese - { code: 1, message: 'fetch请求数据失败', data: [] }
+[2019-07-15T15:55:11.681] [ERROR] cheese - { FetchError: request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801
+    at ClientRequest.<anonymous> (/Applications/yd/jenkins-demo/node_modules/node-fetch/lib/index.js:1455:11)
+    at ClientRequest.emit (events.js:198:13)
+    at Socket.socketErrorListener (_http_client.js:392:9)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  message:
+   'request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801',
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED' }
+[2019-07-15T15:55:11.683] [ERROR] cheese - { code: 1, message: 'fetch请求数据失败', data: [] }
+[2019-07-15T15:55:13.340] [ERROR] cheese - { FetchError: request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801
+    at ClientRequest.<anonymous> (/Applications/yd/jenkins-demo/node_modules/node-fetch/lib/index.js:1455:11)
+    at ClientRequest.emit (events.js:198:13)
+    at Socket.socketErrorListener (_http_client.js:392:9)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  message:
+   'request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801',
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED' }
+[2019-07-15T15:55:13.340] [ERROR] cheese - { code: 1, message: 'fetch请求数据失败', data: [] }
+[2019-07-15T15:55:13.756] [ERROR] cheese - { FetchError: request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801
+    at ClientRequest.<anonymous> (/Applications/yd/jenkins-demo/node_modules/node-fetch/lib/index.js:1455:11)
+    at ClientRequest.emit (events.js:198:13)
+    at Socket.socketErrorListener (_http_client.js:392:9)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  message:
+   'request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801',
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED' }
+[2019-07-15T15:55:13.757] [ERROR] cheese - { code: 1, message: 'fetch请求数据失败', data: [] }
+[2019-07-15T15:55:13.935] [ERROR] cheese - { FetchError: request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801
+    at ClientRequest.<anonymous> (/Applications/yd/jenkins-demo/node_modules/node-fetch/lib/index.js:1455:11)
+    at ClientRequest.emit (events.js:198:13)
+    at Socket.socketErrorListener (_http_client.js:392:9)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  message:
+   'request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801',
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED' }
+[2019-07-15T15:55:13.936] [ERROR] cheese - { code: 1, message: 'fetch请求数据失败', data: [] }
+[2019-07-15T15:55:14.115] [ERROR] cheese - { FetchError: request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801
+    at ClientRequest.<anonymous> (/Applications/yd/jenkins-demo/node_modules/node-fetch/lib/index.js:1455:11)
+    at ClientRequest.emit (events.js:198:13)
+    at Socket.socketErrorListener (_http_client.js:392:9)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  message:
+   'request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801',
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED' }
+[2019-07-15T15:55:14.117] [ERROR] cheese - { code: 1, message: 'fetch请求数据失败', data: [] }
+[2019-07-15T15:55:14.306] [ERROR] cheese - { FetchError: request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801
+    at ClientRequest.<anonymous> (/Applications/yd/jenkins-demo/node_modules/node-fetch/lib/index.js:1455:11)
+    at ClientRequest.emit (events.js:198:13)
+    at Socket.socketErrorListener (_http_client.js:392:9)
+    at Socket.emit (events.js:198:13)
+    at emitErrorNT (internal/streams/destroy.js:91:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+  message:
+   'request to http://localhost:801/yii-basic-app-2.0.21/web/index.php?r=books/index failed, reason: connect ECONNREFUSED 127.0.0.1:801',
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED' }
+[2019-07-15T15:55:14.306] [ERROR] cheese - { code: 1, message: 'fetch请求数据失败', data: [] }
