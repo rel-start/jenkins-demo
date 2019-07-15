@@ -1,0 +1,12 @@
+{% extends '../../layouts/layout.html' %}
+{% block title %}vues页面{% endblock %}
+{% block stylesheet %}
+<!-- <link rel="stylesheet" href="/stylesheet/list.css"> -->
+  <link rel="stylesheet" href="../../../components/books/list/list.css">
+{% endblock %}
+{% block content %}
+  {% include "../../../components/books/list/list.html" %}
+{% endblock %}
+{% block scripts %}
+  <script src="/scripts/books-index.es5.js"></script><script src="/scripts/books-list.es5.js"></script>
+{% endblock %}

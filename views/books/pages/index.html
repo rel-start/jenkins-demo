@@ -1,0 +1,21 @@
+{% extends '../../layouts/layout.html' %}
+{% block title %}vues页面{% endblock %}
+{% block stylesheet %}
+<link rel="stylesheet" href="/stylesheet/index.css">
+{% endblock %}
+{% block content %}
+[[data]]
+{% endblock %}
+{% block scripts %}
+<script type="nomodule">
+  import("/scripts/index.js").then(_ => {
+    console.log(_.default)
+  });
+</script>
+<script type="module" src="https://cdn.bootcss.com/systemjs/3.1.6/system.min.js"></script>
+<script type="module">
+  System.import("/scripts/index-bundle.js").then(_ => {
+      console.log(_.default);
+  })
+</script>
+{% endblock %}

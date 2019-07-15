@@ -1,0 +1,16 @@
+<div class="box">
+  <div class="box_head">
+    {% for val in booksTitles %}
+    <div class="box_options">[[val]]</div>
+    {% endfor %}
+  </div>
+  <div class="box_body">
+    {% for item in booksVal %}
+    <div class="box_content">
+      {% for val in item %}
+      <div class="box_item">[[val]]</div>
+      {% endfor %}
+    </div>
+    {% endfor %}
+  </div>
+</div>

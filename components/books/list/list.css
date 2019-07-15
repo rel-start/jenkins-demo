@@ -1,0 +1,12 @@
+.box_head,
+.box_content {
+  display: flex;
+}
+
+.box_options,
+.box_item {
+  width: 100px;
+  padding: 8px 0;
+  text-align: center;
+  box-shadow: 0 0 2px 0 rgba(0,0,0,.1);
+}
